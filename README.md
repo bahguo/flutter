@@ -127,5 +127,5 @@ Information on how to get started can be found in our
 [Impeller]: https://docs.flutter.dev/perf/impeller
 
 ### Code analysis
-[Reflutter](https://github.com/Impact-I/reFlutter)
-[Blutter](https://github.com/worawit/blutter)
+- [Reflutter](https://github.com/Impact-I/reFlutter)
+- [Blutter](https://github.com/worawit/blutter)
